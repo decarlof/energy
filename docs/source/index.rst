@@ -10,5 +10,6 @@ Content
 
    about
    usage
+   dmm
    install
    energyApp
